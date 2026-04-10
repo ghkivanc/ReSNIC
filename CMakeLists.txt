@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.18)
 project(snic LANGUAGES CXX CUDA)
 
-set(CMAKE_CUDA_ARCHITECTURES 75)
+set(CMAKE_CUDA_ARCHITECTURES YOUR_ARCH)
 
 find_package(Python COMPONENTS Interpreter Development REQUIRED)
 find_package(pybind11 REQUIRED)
