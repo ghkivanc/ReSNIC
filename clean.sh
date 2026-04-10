@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm -rf build/* bee_snic.png segtest_snic.png sample_snic.png output/* tests
+rm -rf build/* *_snic.{jpg,png} output/* *\.log tests
