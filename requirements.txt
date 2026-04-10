@@ -3,3 +3,5 @@ scikit-image
 tqdm
 pillow
 numpy
+cuda
+matplotlib
