@@ -395,5 +395,6 @@ void SNIC_main(double* img, const int width, const int height,
     *numlabels = numklabels;
 
     free(channels);
+    delete[] flat;
 }
 
