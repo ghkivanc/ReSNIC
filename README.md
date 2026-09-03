@@ -1,4 +1,4 @@
-# ReSNIC: Rapid and Efficient Superpixel Segmentation with NVIDIA CUDA
+# ReSNIC: SNIC Superpixel Segmentation with CUDA
 
 A high-performance GPU-accelerated implementation of the SNIC (Simple Non-Iterative Clustering) superpixel segmentation algorithm using CUDA and C++.
 
