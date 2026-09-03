@@ -1,0 +1,7 @@
+pybind11
+scikit-image
+tqdm
+pillow
+numpy
+cuda
+matplotlib
