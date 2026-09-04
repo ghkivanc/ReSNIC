@@ -77,12 +77,6 @@ title = {Superpixels and Polygons using Simple Non-Iterative Clustering},
 booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, year = {2017} }
 }
 ```
-
-## References
-
-- Achanta, R., & Susstrunk, S. (2016). Superpixels and Polygons using Simple Linear Iterative Clustering. IEEE Conference on Computer Vision and Pattern Recognition.
-- NVIDIA CUDA Toolkit Documentation: https://docs.nvidia.com/cuda/
-
 ## Troubleshooting
 
 - **Heap size exceeded**: Likely due to either your arch or the heap_size parameter inside snic_kernels.cu. Refer to the file for further information
