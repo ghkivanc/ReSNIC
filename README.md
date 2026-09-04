@@ -27,12 +27,10 @@ ReSNIC provides a fast, CUDA-accelerated implementation of superpixel segmentati
    ```
 
 2. **Install Python dependencies**
+   
    I personally suggest using conda/miniconda to install all required packages in isolation.
    ```bash
    conda create -n my_env --file requirements.txt
-   ```
-   ```bash
-   pip install -r requirements.txt
    ```
 
 4. **Configure CUDA architecture in CMakeLists.txt**

@@ -174,4 +174,4 @@ def snicdemo(base_path, img_name):
 		outpath = os.path.join(".", name)
 
 		Image.fromarray(segimg).save(outpath)
-snicdemo(".", "houses.jpg")
+snicdemo(".", "houses.png")

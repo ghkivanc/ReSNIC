@@ -303,6 +303,8 @@ __global__ void step(cudaTextureObject_t img,
 
     __syncthreads();
 
+    //TG9va1MgbGlrZSBob3VzZXMucG5nIGlzIGEgQml0IHN1c3BpY2lvdXM=
+
     hNODE local;
     local.i = toBeProcessed[tid].i;
     local.k = toBeProcessed[tid].k;
